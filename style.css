@@ -1,0 +1,46 @@
+ .h-nav{
+            height: 100px;
+        }
+    .img{
+        margin-left: 200px;
+        margin-top: 80px;
+height: 150px;
+width: 150px;
+    }
+    .txt{
+       display: flex;
+       justify-content: end;
+    }
+    .txt1{
+        display: flex;
+        justify-content: center;
+        margin-top: 70px;
+    }
+ 
+    /* .h-text{
+        font-family: 'Cormorant Garamond', serif;
+        text-align: center;
+    } */
+    .hero{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    text-align: center;
+    }
+
+    .slider{
+        margin-top: 50px;
+        height: 500x;
+        width: 1000px;
+        
+    }
+    .hero-section{
+        display: flex;
+
+    }
+
+    #pics{
+        display: flex;
+        justify-content: space-evenly;
+    }
